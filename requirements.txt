@@ -1,0 +1,19 @@
+# Core dependencies
+langchain==0.1.0
+openai==1.10.0
+chromadb==0.4.22
+sentence-transformers==2.2.2
+
+# Web framework
+fastapi==0.109.0
+uvicorn==0.27.0
+gradio==4.11.0
+
+# Security
+pyyaml==6.0.1
+python-dotenv==1.0.0
+
+# Utilities
+requests==2.31.0
+pandas==2.1.4
+numpy==1.26.3
